@@ -18,3 +18,5 @@ Further modifications will come sooner.
 6] Then Multiple regression was carried out to predict the temperature values.
 
 7] The score was then calculated (it is between 0 to 1).
+
+8] Then the values were predicted and displayed, both in a tabular form & graphical form.
